@@ -455,7 +455,7 @@ export const Dashboard = (): JSX.Element => {
                     <Box sx={{ flex: '1 1 280px', minWidth: 280 }}>
                         <MetricCard
                             title="Revenue"
-                            value="$4.9M"
+                            value="$6.2M"
                             icon={TrendingUp}
                             data={miniMetrics.revenue}
                             color="#10b981"
@@ -465,7 +465,7 @@ export const Dashboard = (): JSX.Element => {
                     <Box sx={{ flex: '1 1 280px', minWidth: 280 }}>
                         <MetricCard
                             title="Active Users"
-                            value="223K"
+                            value="260K"
                             icon={People}
                             data={miniMetrics.users}
                             color="#3b82f6"
@@ -475,7 +475,7 @@ export const Dashboard = (): JSX.Element => {
                     <Box sx={{ flex: '1 1 280px', minWidth: 280 }}>
                         <MetricCard
                             title="Sales Volume"
-                            value="1,284"
+                            value="1,456"
                             icon={ShoppingCart}
                             data={miniMetrics.sales}
                             color="#ef4444"
@@ -485,7 +485,7 @@ export const Dashboard = (): JSX.Element => {
                     <Box sx={{ flex: '1 1 280px', minWidth: 280 }}>
                         <MetricCard
                             title="Conversion Rate"
-                            value="3.6%"
+                            value="4.7%"
                             icon={Analytics}
                             data={miniMetrics.conversion}
                             color="#8b5cf6"
