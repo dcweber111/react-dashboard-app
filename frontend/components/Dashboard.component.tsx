@@ -105,7 +105,7 @@ export const Dashboard = (): JSX.Element => {
                     <Box sx={{ display: 'flex', alignItems: 'center', flexGrow: 1 }}>
                         <DashboardIcon sx={{ mr: 1.5, color: 'primary.main' }} />
                         <Typography variant="h6" component="div" fontWeight={700} color="text.primary">
-                            Analytics Dashboard
+                            dcweber INFO 1031 Analytics Dashboard
                         </Typography>
                     </Box>
 
